@@ -1,0 +1,250 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1100 900" width="1100" height="900">
+  <defs>
+    <!-- Gradients -->
+    <linearGradient id="grad-header" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#1e3a5f;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#2c5282;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="grad-client" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#4299e1;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#63b3ed;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="grad-nginx" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#38a169;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#48bb78;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="grad-gateway" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#805ad5;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#9f7aea;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="grad-service-core" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#dd6b20;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#ed8936;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="grad-service-social" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#e53e3e;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#fc8181;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="grad-service-admin" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#718096;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#a0aec0;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="grad-db" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#2b6cb0;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#4299e1;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="grad-redis" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#c53030;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#f56565;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="grad-meili" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#d69e2e;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#ecc94b;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="grad-worker" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#319795;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#38b2ac;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="grad-pipeline" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#6b46c1;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#9f7aea;stop-opacity:1" />
+    </linearGradient>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="3" dy="4" stdDeviation="4" flood-color="#000" flood-opacity="0.25"/>
+    </filter>
+    <filter id="shadow-sm" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="2" dy="2" stdDeviation="2" flood-color="#000" flood-opacity="0.2"/>
+    </filter>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="1100" height="900" fill="#f7fafc"/>
+  
+  <!-- Header -->
+  <rect x="0" y="0" width="1100" height="75" fill="url(#grad-header)" filter="url(#shadow)"/>
+  <text x="550" y="42" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="28" font-weight="bold" fill="#fff">Architecture Technique</text>
+  <text x="550" y="65" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="13" fill="#a0aec0">Stack • Services • Pipeline de données • Infrastructure</text>
+  
+  <!-- Tech Stack Bar -->
+  <rect x="30" y="90" width="1040" height="55" rx="10" fill="#fff" stroke="#e2e8f0" stroke-width="1" filter="url(#shadow-sm)"/>
+  <text x="50" y="108" font-family="Segoe UI, Arial, sans-serif" font-size="12" font-weight="bold" fill="#2d3748">Stack:</text>
+  <rect x="95" y="95" width="85" height="22" rx="4" fill="#2d3748"/>
+  <text x="137" y="110" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="10" fill="#fff">Next.js 14</text>
+  <rect x="185" y="95" width="60" height="22" rx="4" fill="#00add8"/>
+  <text x="215" y="110" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="10" fill="#fff">Go</text>
+  <rect x="250" y="95" width="85" height="22" rx="4" fill="#336791"/>
+  <text x="292" y="110" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="10" fill="#fff">PostgreSQL</text>
+  <rect x="340" y="95" width="60" height="22" rx="4" fill="#dc382d"/>
+  <text x="370" y="110" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="10" fill="#fff">Redis</text>
+  <rect x="405" y="95" width="75" height="22" rx="4" fill="#e01e5a"/>
+  <text x="442" y="110" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="10" fill="#fff">Meilisearch</text>
+  <rect x="485" y="95" width="70" height="22" rx="4" fill="#412991"/>
+  <text x="520" y="110" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="10" fill="#fff">OpenAI</text>
+  <rect x="560" y="95" width="70" height="22" rx="4" fill="#ea4335"/>
+  <text x="595" y="110" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="10" fill="#fff">OAuth 2.0</text>
+  <text x="50" y="135" font-family="Segoe UI, Arial, sans-serif" font-size="11" fill="#718096">Frontend → Backend API → Database → Cache → Search → Queue → AI</text>
+  
+  <!-- Main Architecture Diagram -->
+  <rect x="30" y="160" width="1040" height="420" rx="15" fill="#fff" stroke="#e2e8f0" stroke-width="2" filter="url(#shadow)"/>
+  <text x="550" y="185" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="16" font-weight="bold" fill="#2d3748">🏗️ Vue d'ensemble de l'Architecture</text>
+  
+  <!-- VPS Container -->
+  <rect x="50" y="200" width="1000" height="360" rx="10" fill="#edf2f7" stroke="#cbd5e0" stroke-width="1"/>
+  <text x="70" y="225" font-family="Segoe UI, Arial, sans-serif" font-size="12" font-weight="bold" fill="#4a5568">🖥️ VPS 8 Go RAM</text>
+  
+  <!-- Client Layer -->
+  <rect x="70" y="240" width="960" height="50" rx="8" fill="url(#grad-client)" filter="url(#shadow-sm)"/>
+  <text x="120" y="260" font-family="Segoe UI, Arial, sans-serif" font-size="11" font-weight="bold" fill="#fff">CLIENT</text>
+  <rect x="180" y="250" width="100" height="30" rx="5" fill="#fff" opacity="0.9"/>
+  <text x="230" y="270" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="10" fill="#3182ce">Next.js 14</text>
+  <rect x="300" y="250" width="80" height="30" rx="5" fill="#fff" opacity="0.9"/>
+  <text x="340" y="270" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="10" fill="#3182ce">Mobile (futur)</text>
+  <rect x="400" y="250" width="100" height="30" rx="5" fill="#fff" opacity="0.9"/>
+  <text x="450" y="270" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="10" fill="#3182ce">API B2B (futur)</text>
+  <text x="950" y="270" font-family="Segoe UI, Arial, sans-serif" font-size="10" fill="#fff">HTTPS ↓</text>
+  
+  <!-- NGINX -->
+  <rect x="70" y="305" width="960" height="45" rx="8" fill="url(#grad-nginx)" filter="url(#shadow-sm)"/>
+  <text x="100" y="325" font-family="Segoe UI, Arial, sans-serif" font-size="11" font-weight="bold" fill="#fff">NGINX</text>
+  <text x="170" y="325" font-family="Segoe UI, Arial, sans-serif" font-size="9" fill="#c6f6d5">SSL • Rate Limit • Static Files • Load Balance</text>
+  <text x="170" y="340" font-family="Segoe UI, Arial, sans-serif" font-size="9" fill="#c6f6d5">Reverse Proxy</text>
+  
+  <!-- API Gateway -->
+  <rect x="70" y="365" width="960" height="55" rx="8" fill="url(#grad-gateway)" filter="url(#shadow-sm)"/>
+  <text x="100" y="385" font-family="Segoe UI, Arial, sans-serif" font-size="11" font-weight="bold" fill="#fff">API GATEWAY (Go/Echo)</text>
+  <text x="280" y="385" font-family="Segoe UI, Arial, sans-serif" font-size="9" fill="#e9d8fd">JWT Validation</text>
+  <text x="380" y="385" font-family="Segoe UI, Arial, sans-serif" font-size="9" fill="#e9d8fd">• Rate Limiting (Redis)</text>
+  <text x="520" y="385" font-family="Segoe UI, Arial, sans-serif" font-size="9" fill="#e9d8fd">• Request ID / Tracing</text>
+  <text x="660" y="385" font-family="Segoe UI, Arial, sans-serif" font-size="9" fill="#e9d8fd">• Routing /core/* vs /social/*</text>
+  <text x="280" y="405" font-family="Segoe UI, Arial, sans-serif" font-size="9" fill="#e9d8fd">Circuit Breaker (failover)</text>
+  
+  <!-- Services Row -->
+  <rect x="70" y="435" width="300" height="100" rx="10" fill="url(#grad-service-core)" filter="url(#shadow-sm)"/>
+  <text x="220" y="460" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="13" font-weight="bold" fill="#fff">🎬 CORE SERVICE</text>
+  <text x="220" y="480" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="10" fill="#feebc8">:8081</text>
+  <text x="220" y="500" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="9" fill="#fff">Œuvres • Personnes</text>
+  <text x="220" y="515" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="9" fill="#fff">Relations • Sources</text>
+  
+  <rect x="400" y="435" width="300" height="100" rx="10" fill="url(#grad-service-social)" filter="url(#shadow-sm)"/>
+  <text x="550" y="460" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="13" font-weight="bold" fill="#fff">💬 SOCIAL SERVICE</text>
+  <text x="550" y="480" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="10" fill="#fed7d7">:8082</text>
+  <text x="550" y="500" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="9" fill="#fff">Utilisateurs • Notations</text>
+  <text x="550" y="515" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="9" fill="#fff">Posts • Feeds • Votes</text>
+  
+  <rect x="730" y="435" width="200" height="100" rx="10" fill="url(#grad-service-admin)" filter="url(#shadow-sm)"/>
+  <text x="830" y="460" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="13" font-weight="bold" fill="#fff">⚙️ ADMIN SERVICE</text>
+  <text x="830" y="480" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="10" fill="#e2e8f0">:8083</text>
+  <text x="830" y="500" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="9" fill="#fff">Modération • Stats</text>
+  <text x="830" y="515" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="9" fill="#fff">Gestion tickets</text>
+  
+  <!-- Database Layer -->
+  <rect x="70" y="550" width="300" height="80" rx="10" fill="url(#grad-db)" filter="url(#shadow-sm)"/>
+  <text x="220" y="575" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="12" font-weight="bold" fill="#fff">🐘 PostgreSQL</text>
+  <text x="220" y="595" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="9" fill="#bee3f8">:5432 — Core + Social DB</text>
+  <text x="220" y="615" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="9" fill="#bee3f8">Relations + JSONB flexible</text>
+  
+  <rect x="400" y="550" width="140" height="80" rx="10" fill="url(#grad-redis)" filter="url(#shadow-sm)"/>
+  <text x="470" y="580" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="12" font-weight="bold" fill="#fff">⚡ Redis</text>
+  <text x="470" y="600" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="9" fill="#fed7d7">:6379</text>
+  <text x="470" y="618" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="9" fill="#fed7d7">Cache • Sessions</text>
+  
+  <rect x="560" y="550" width="140" height="80" rx="10" fill="url(#grad-meili)" filter="url(#shadow-sm)"/>
+  <text x="630" y="580" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="12" font-weight="bold" fill="#744210">🔍 Meilisearch</text>
+  <text x="630" y="600" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="9" fill="#744210">:7700</text>
+  <text x="630" y="618" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="9" fill="#744210">Full-text • Faceting</text>
+  
+  <rect x="730" y="550" width="200" height="80" rx="10" fill="url(#grad-worker)" filter="url(#shadow-sm)"/>
+  <text x="830" y="580" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="12" font-weight="bold" fill="#fff">⚙️ WORKERS</text>
+  <text x="830" y="600" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="9" fill="#b2f5ea">Ingestion • IA • Retry</text>
+  <text x="830" y="618" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="9" fill="#b2f5ea">Background Go</text>
+  
+  <!-- Data Pipeline Section -->
+  <text x="30" y="610" font-family="Segoe UI, Arial, sans-serif" font-size="16" font-weight="bold" fill="#2d3748">📊 Pipeline de Données (Asynchrone)</text>
+  
+  <rect x="30" y="625" width="1040" height="140" rx="12" fill="url(#grad-pipeline)" filter="url(#shadow)"/>
+  
+  <!-- Pipeline Steps -->
+  <circle cx="90" cy="680" r="28" fill="#fff" filter="url(#shadow-sm)"/>
+  <text x="90" y="675" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="16">⏰</text>
+  <text x="90" y="720" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="9" fill="#fff">Scheduler</text>
+  <text x="90" y="735" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="8" fill="#e9d8fd">Cron 6h</text>
+  
+  <line x1="120" y1="680" x2="150" y2="680" stroke="#fff" stroke-width="2" marker-end="url(#arrow)"/>
+  
+  <circle cx="185" cy="680" r="28" fill="#fff" filter="url(#shadow-sm)"/>
+  <text x="185" y="675" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="16">🌐</text>
+  <text x="185" y="720" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="9" fill="#fff">Wikidata</text>
+  <text x="185" y="735" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="8" fill="#e9d8fd">Retry 3x</text>
+  
+  <line x1="215" y1="680" x2="245" y2="680" stroke="#fff" stroke-width="2" marker-end="url(#arrow)"/>
+  
+  <circle cx="280" cy="680" r="28" fill="#fff" filter="url(#shadow-sm)"/>
+  <text x="280" y="675" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="16">🔄</text>
+  <text x="280" y="720" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="9" fill="#fff">Normalize</text>
+  <text x="280" y="735" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="8" fill="#e9d8fd">Extract facts</text>
+  
+  <line x1="310" y1="680" x2="340" y2="680" stroke="#fff" stroke-width="2" marker-end="url(#arrow)"/>
+  
+  <circle cx="375" cy="680" r="28" fill="#fff" filter="url(#shadow-sm)"/>
+  <text x="375" y="675" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="16">📊</text>
+  <text x="375" y="720" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="9" fill="#fff">Quality</text>
+  <text x="375" y="735" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="8" fill="#e9d8fd">Score &lt; 70?</text>
+  
+  <line x1="405" y1="680" x2="435" y2="680" stroke="#fff" stroke-width="2" marker-end="url(#arrow)"/>
+  
+  <circle cx="470" cy="680" r="28" fill="#fff" filter="url(#shadow-sm)"/>
+  <text x="470" y="675" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="16">📥</text>
+  <text x="470" y="720" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="9" fill="#fff">Queue</text>
+  <text x="470" y="735" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="8" fill="#e9d8fd">PostgreSQL</text>
+  
+  <line x1="500" y1="680" x2="530" y2="680" stroke="#fff" stroke-width="2" marker-end="url(#arrow)"/>
+  
+  <circle cx="565" cy="680" r="28" fill="#fff" filter="url(#shadow-sm)"/>
+  <text x="565" y="675" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="16">🤖</text>
+  <text x="565" y="720" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="9" fill="#fff">Generate IA</text>
+  <text x="565" y="735" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="8" fill="#e9d8fd">OpenAI API</text>
+  
+  <line x1="595" y1="680" x2="625" y2="680" stroke="#fff" stroke-width="2" marker-end="url(#arrow)"/>
+  
+  <circle cx="660" cy="680" r="28" fill="#fff" filter="url(#shadow-sm)"/>
+  <text x="660" y="675" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="16">✓</text>
+  <text x="660" y="720" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="9" fill="#fff">Quality Check</text>
+  <text x="660" y="735" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="8" fill="#e9d8fd">Scoring interne</text>
+  
+  <line x1="690" y1="680" x2="720" y2="680" stroke="#fff" stroke-width="2" marker-end="url(#arrow)"/>
+  
+  <circle cx="755" cy="680" r="28" fill="#fff" filter="url(#shadow-sm)"/>
+  <text x="755" y="675" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="16">🚀</text>
+  <text x="755" y="720" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="9" fill="#fff">Publish</text>
+  <text x="755" y="735" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="8" fill="#e9d8fd">Index Meili</text>
+  
+  <line x1="785" y1="680" x2="815" y2="680" stroke="#fff" stroke-width="2" marker-end="url(#arrow)"/>
+  
+  <circle cx="865" cy="680" r="35" fill="#48bb78" stroke="#fff" stroke-width="3" filter="url(#shadow-sm)"/>
+  <text x="865" y="675" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="20">✅</text>
+  <text x="865" y="730" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="10" font-weight="bold" fill="#fff">PUBLISHED</text>
+  
+  <!-- Retry loop -->
+  <path d="M 185 710 Q 185 750 565 750 Q 945 750 945 680 Q 945 630 905 630" stroke="#fff" stroke-width="1" stroke-dasharray="4,2" fill="none" opacity="0.6"/>
+  <text x="920" y="655" font-family="Segoe UI, Arial, sans-serif" font-size="8" fill="#fff" opacity="0.8">Retry failed jobs</text>
+  
+  <!-- Schema Section -->
+  <text x="30" y="795" font-family="Segoe UI, Arial, sans-serif" font-size="16" font-weight="bold" fill="#2d3748">🗄️ Schéma de Données (Aperçu)</text>
+  
+  <rect x="30" y="810" width="500" height="80" rx="10" fill="#2d3748" filter="url(#shadow-sm)"/>
+  <text x="50" y="835" font-family="Segoe UI, Arial, sans-serif" font-size="12" font-weight="bold" fill="#63b3ed">Core Database</text>
+  <text x="50" y="855" font-family="Segoe UI, Arial, sans-serif" font-size="10" fill="#a0aec0">works • persons • crew_links</text>
+  <text x="50" y="875" font-family="Segoe UI, Arial, sans-serif" font-size="10" fill="#a0aec0">work_sources • work_facts • work_generations • work_images</text>
+  
+  <rect x="550" y="810" width="520" height="80" rx="10" fill="#744210" filter="url(#shadow-sm)"/>
+  <text x="570" y="835" font-family="Segoe UI, Arial, sans-serif" font-size="12" font-weight="bold" fill="#f6e05e">Social Database</text>
+  <text x="570" y="855" font-family="Segoe UI, Arial, sans-serif" font-size="10" fill="#faf089">users • user_oauth • ratings</text>
+  <text x="570" y="875" font-family="Segoe UI, Arial, sans-serif" font-size="10" fill="#faf089">posts • post_votes • moderation_queue</text>
+  
+  <!-- Arrow marker -->
+  <defs>
+    <marker id="arrow" markerWidth="8" markerHeight="8" refX="7" refY="4" orient="auto" markerUnits="strokeWidth">
+      <path d="M0,0 L0,8 L8,4 z" fill="#fff"/>
+    </marker>
+  </defs>
+</svg>

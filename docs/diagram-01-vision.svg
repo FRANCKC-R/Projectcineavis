@@ -1,0 +1,135 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 700" width="900" height="700">
+  <defs>
+    <!-- Gradients -->
+    <linearGradient id="grad-header" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#1a1a2e;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#16213e;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="grad-core" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0f3460;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#1a4d7a;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="grad-social" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#e94560;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#ff6b6b;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="grad-problem" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#2d3436;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#636e72;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="grad-solution" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#00b894;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#00cec9;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="grad-diff" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#6c5ce7;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#a29bfe;stop-opacity:1" />
+    </linearGradient>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="2" dy="4" stdDeviation="3" flood-color="#000" flood-opacity="0.3"/>
+    </filter>
+    <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="2" result="coloredBlur"/>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="900" height="700" fill="#f8f9fa"/>
+  
+  <!-- Header -->
+  <rect x="0" y="0" width="900" height="80" fill="url(#grad-header)" filter="url(#shadow)"/>
+  <text x="450" y="45" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="28" font-weight="bold" fill="#fff">Cinema Data Core</text>
+  <text x="450" y="68" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="14" fill="#a0a0a0">Vision Générale &amp; Stratégie</text>
+  
+  <!-- Vision Statement -->
+  <rect x="50" y="100" width="800" height="60" rx="10" fill="#fff" stroke="#ddd" stroke-width="1" filter="url(#shadow)"/>
+  <text x="450" y="130" text-anchor="middle" font-family="Georgia, serif" font-size="16" fill="#2d3436" font-style="italic">"Une base cinématographique ouverte et une communauté qui explore,</text>
+  <text x="450" y="150" text-anchor="middle" font-family="Georgia, serif" font-size="16" fill="#2d3436" font-style="italic">évalue et discute chaque œuvre dans ses moindres détails."</text>
+  
+  <!-- Problem Section -->
+  <rect x="50" y="180" width="380" height="180" rx="12" fill="url(#grad-problem)" filter="url(#shadow)"/>
+  <text x="240" y="210" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="18" font-weight="bold" fill="#fff">❌ Problème</text>
+  <text x="70" y="240" font-family="Segoe UI, Arial, sans-serif" font-size="13" fill="#dfe6e9">• Bases propriétaires (IMDb, AlloCiné)</text>
+  <text x="70" y="262" font-family="Segoe UI, Arial, sans-serif" font-size="13" fill="#dfe6e9">• Pas de traçabilité des données</text>
+  <text x="70" y="284" font-family="Segoe UI, Arial, sans-serif" font-size="13" fill="#dfe6e9">• API limitées, pas d'historique</text>
+  <text x="70" y="306" font-family="Segoe UI, Arial, sans-serif" font-size="13" fill="#dfe6e9">• Communauté passive, pas d'échange</text>
+  <text x="70" y="328" font-family="Segoe UI, Arial, sans-serif" font-size="13" fill="#dfe6e9">• Mélange confus facts / opinions</text>
+  <text x="70" y="350" font-family="Segoe UI, Arial, sans-serif" font-size="13" fill="#dfe6e9">• Pas de données libres (CC0)</text>
+  
+  <!-- Solution Section -->
+  <rect x="470" y="180" width="380" height="180" rx="12" fill="url(#grad-solution)" filter="url(#shadow)"/>
+  <text x="660" y="210" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="18" font-weight="bold" fill="#fff">✅ Solution</text>
+  <text x="490" y="240" font-family="Segoe UI, Arial, sans-serif" font-size="13" fill="#fff">• Base ouverte et canonique</text>
+  <text x="490" y="262" font-family="Segoe UI, Arial, sans-serif" font-size="13" fill="#fff">• Traçabilité complète (Wikidata)</text>
+  <text x="490" y="284" font-family="Segoe UI, Arial, sans-serif" font-size="13" fill="#fff">• Data-first, API riche</text>
+  <text x="490" y="306" font-family="Segoe UI, Arial, sans-serif" font-size="13" fill="#fff">• Communauté structurée</text>
+  <text x="490" y="328" font-family="Segoe UI, Arial, sans-serif" font-size="13" fill="#fff">• Séparation facts / interprétation</text>
+  <text x="490" y="350" font-family="Segoe UI, Arial, sans-serif" font-size="13" fill="#fff">• Données CC0, réutilisables</text>
+  
+  <!-- Arrow between Problem and Solution -->
+  <path d="M 430 270 L 470 270" stroke="#2d3436" stroke-width="3" fill="none" marker-end="url(#arrowhead)"/>
+  <defs>
+    <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
+      <polygon points="0 0, 10 3.5, 0 7" fill="#2d3436"/>
+    </marker>
+  </defs>
+  
+  <!-- Double Nature - Core -->
+  <rect x="50" y="380" width="380" height="140" rx="12" fill="url(#grad-core)" filter="url(#shadow)"/>
+  <text x="240" y="410" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="20" font-weight="bold" fill="#fff">🎬 Cinema Data Core</text>
+  <text x="240" y="440" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="13" fill="#74b9ff">Infrastructure de données</text>
+  <text x="240" y="465" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="12" fill="#dfe6e9">Faits bruts, traçables</text>
+  <text x="240" y="485" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="12" fill="#dfe6e9">API B2B à terme</text>
+  <text x="240" y="505" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="12" fill="#74b9ff" font-weight="bold">Source de vérité</text>
+  
+  <!-- Double Nature - Social -->
+  <rect x="470" y="380" width="380" height="140" rx="12" fill="url(#grad-social)" filter="url(#shadow)"/>
+  <text x="660" y="410" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="20" font-weight="bold" fill="#fff">💬 Cinema Social</text>
+  <text x="660" y="440" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="13" fill="#fab1a0">Plateforme communautaire</text>
+  <text x="660" y="465" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="12" fill="#fff">Évaluations, discussions</text>
+  <text x="660" y="485" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="12" fill="#fff">Engagement B2C dès le lancement</text>
+  <text x="660" y="505" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="12" fill="#fab1a0" font-weight="bold">Moteur de vie</text>
+  
+  <!-- Connection line -->
+  <line x1="430" y1="450" x2="470" y2="450" stroke="#636e72" stroke-width="2" stroke-dasharray="5,5"/>
+  <circle cx="450" cy="450" r="15" fill="#fff" stroke="#636e72" stroke-width="2"/>
+  <text x="450" y="455" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="14" fill="#2d3436">+</text>
+  
+  <!-- Différenciateurs -->
+  <rect x="50" y="540" width="800" height="140" rx="12" fill="url(#grad-diff)" filter="url(#shadow)"/>
+  <text x="450" y="570" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="18" font-weight="bold" fill="#fff">🌟 Différenciateurs Clés</text>
+  
+  <!-- Diff 1 -->
+  <rect x="70" y="590" width="145" height="75" rx="8" fill="#fff" opacity="0.95"/>
+  <text x="142" y="615" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="11" font-weight="bold" fill="#6c5ce7">1. Data Canonique</text>
+  <text x="142" y="635" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="9" fill="#2d3436">Chaque fait a une source</text>
+  <text x="142" y="650" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="9" fill="#2d3436">traçable et datée</text>
+  
+  <!-- Diff 2 -->
+  <rect x="225" y="590" width="145" height="75" rx="8" fill="#fff" opacity="0.95"/>
+  <text x="297" y="615" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="11" font-weight="bold" fill="#6c5ce7">2. IA Originale</text>
+  <text x="297" y="635" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="9" fill="#2d3436">Descriptions générées</text>
+  <text x="297" y="650" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="9" fill="#2d3436">pas copiées d'IMDb</text>
+  
+  <!-- Diff 3 -->
+  <rect x="380" y="590" width="145" height="75" rx="8" fill="#fff" opacity="0.95"/>
+  <text x="452" y="615" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="11" font-weight="bold" fill="#6c5ce7">3. Multi-critères</text>
+  <text x="452" y="635" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="9" fill="#2d3436">6 dimensions d'évaluation</text>
+  <text x="452" y="650" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="9" fill="#2d3436">(1-10), pas une moyenne</text>
+  
+  <!-- Diff 4 -->
+  <rect x="535" y="590" width="145" height="75" rx="8" fill="#fff" opacity="0.95"/>
+  <text x="607" y="615" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="11" font-weight="bold" fill="#6c5ce7">4. Technique</text>
+  <text x="607" y="635" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="9" fill="#2d3436">Valorisation des métiers</text>
+  <text x="607" y="650" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="9" fill="#2d3436">techniques du cinéma</text>
+  
+  <!-- Diff 5 -->
+  <rect x="690" y="590" width="145" height="75" rx="8" fill="#fff" opacity="0.95"/>
+  <text x="762" y="615" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="11" font-weight="bold" fill="#6c5ce7">5. Communauté</text>
+  <text x="762" y="635" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="9" fill="#2d3436">Feeds thématiques structurés</text>
+  <text x="762" y="650" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="9" fill="#2d3436">pas un chaos de coms</text>
+</svg>

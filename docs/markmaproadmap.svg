@@ -1,0 +1,740 @@
+<svg xmlns="http://www.w3.org/2000/svg" class="markmap mm-w7md9e-5" style="width: 100%; height: 100%;"><style>.markmap{--markmap-max-width: 9999px;--markmap-a-color: #0097e6;--markmap-a-hover-color: #00a8ff;--markmap-code-bg: #f0f0f0;--markmap-code-color: #555;--markmap-highlight-bg: #ffeaa7;--markmap-table-border: 1px solid currentColor;--markmap-font: 300 16px/20px sans-serif;--markmap-circle-open-bg: #fff;--markmap-text-color: #333;--markmap-highlight-node-bg: #ff02;font:var(--markmap-font);color:var(--markmap-text-color)}.markmap-link{fill:none}.markmap-node&gt;circle{cursor:pointer}.markmap-foreign{display:inline-block}.markmap-foreign p{margin:0}.markmap-foreign a{color:var(--markmap-a-color)}.markmap-foreign a:hover{color:var(--markmap-a-hover-color)}.markmap-foreign code{padding:.25em;font-size:calc(1em - 2px);color:var(--markmap-code-color);background-color:var(--markmap-code-bg);border-radius:2px}.markmap-foreign pre{margin:0}.markmap-foreign pre&gt;code{display:block}.markmap-foreign del{text-decoration:line-through}.markmap-foreign em{font-style:italic}.markmap-foreign strong{font-weight:700}.markmap-foreign mark{background:var(--markmap-highlight-bg)}.markmap-foreign table,.markmap-foreign th,.markmap-foreign td{border-collapse:collapse;border:var(--markmap-table-border)}.markmap-foreign img{display:inline-block}.markmap-foreign svg{fill:currentColor}.markmap-foreign&gt;div{width:var(--markmap-max-width);text-align:left}.markmap-foreign&gt;div&gt;div{display:inline-block}.markmap-highlight rect{fill:var(--markmap-highlight-node-bg)}.markmap-dark .markmap{--markmap-code-bg: #1a1b26;--markmap-code-color: #ddd;--markmap-circle-open-bg: #444;--markmap-text-color: #eee}</style><g transform="translate(245.61815043261979,296.29560648523517) scale(0.17200776240098073)"><path class="markmap-link" data-depth="3" data-path="1.2.3" d="M534,-1582.992C574,-1582.992,574,-1551.68,614,-1551.68" stroke-width="1.375" stroke="rgb(148, 103, 189)"/><path class="markmap-link" data-depth="4" data-path="1.4.6.7" d="M1052,-1446.305C1092,-1446.305,1092,-1372.398,1132,-1372.398" stroke-width="1.1875" stroke="rgb(188, 189, 34)"/><path class="markmap-link" data-depth="4" data-path="1.4.8.9" d="M1042,-1268.117C1082,-1268.117,1082,-1195.211,1122,-1195.211" stroke-width="1.1875" stroke="rgb(31, 119, 180)"/><path class="markmap-link" data-depth="4" data-path="1.4.10.11" d="M1005,-1090.93C1045,-1090.93,1045,-1018.023,1085,-1018.023" stroke-width="1.1875" stroke="rgb(44, 160, 44)"/><path class="markmap-link" data-depth="4" data-path="1.4.12.13" d="M1014,-913.742C1054,-913.742,1054,-840.836,1094,-840.836" stroke-width="1.1875" stroke="rgb(148, 103, 189)"/><path class="markmap-link" data-depth="3" data-path="1.4.5" d="M698,-1193.023C738,-1193.023,738,-1472.68,778,-1472.68" stroke-width="1.375" stroke="rgb(227, 119, 194)"/><path class="markmap-link" data-depth="3" data-path="1.4.6" d="M698,-1193.023C738,-1193.023,738,-1446.305,778,-1446.305" stroke-width="1.375" stroke="rgb(127, 127, 127)"/><path class="markmap-link" data-depth="3" data-path="1.4.8" d="M698,-1193.023C738,-1193.023,738,-1268.117,778,-1268.117" stroke-width="1.375" stroke="rgb(23, 190, 207)"/><path class="markmap-link" data-depth="3" data-path="1.4.10" d="M698,-1193.023C738,-1193.023,738,-1090.93,778,-1090.93" stroke-width="1.375" stroke="rgb(255, 127, 14)"/><path class="markmap-link" data-depth="3" data-path="1.4.12" d="M698,-1193.023C738,-1193.023,738,-913.742,778,-913.742" stroke-width="1.375" stroke="rgb(214, 39, 40)"/><path class="markmap-link" data-depth="4" data-path="1.14.16.17" d="M979,-736.555C1019,-736.555,1019,-663.648,1059,-663.648" stroke-width="1.1875" stroke="rgb(188, 189, 34)"/><path class="markmap-link" data-depth="4" data-path="1.14.18.19" d="M1044,-559.367C1084,-559.367,1084,-486.461,1124,-486.461" stroke-width="1.1875" stroke="rgb(31, 119, 180)"/><path class="markmap-link" data-depth="4" data-path="1.14.20.21" d="M1025,-382.18C1065,-382.18,1065,-309.273,1105,-309.273" stroke-width="1.1875" stroke="rgb(44, 160, 44)"/><path class="markmap-link" data-depth="4" data-path="1.14.22.23" d="M1047,-163.992C1087,-163.992,1087,-50.086,1127,-50.086" stroke-width="1.1875" stroke="rgb(148, 103, 189)"/><path class="markmap-link" data-depth="3" data-path="1.14.15" d="M698,-463.273C738,-463.273,738,-762.93,778,-762.93" stroke-width="1.375" stroke="rgb(227, 119, 194)"/><path class="markmap-link" data-depth="3" data-path="1.14.16" d="M698,-463.273C738,-463.273,738,-736.555,778,-736.555" stroke-width="1.375" stroke="rgb(127, 127, 127)"/><path class="markmap-link" data-depth="3" data-path="1.14.18" d="M698,-463.273C738,-463.273,738,-559.367,778,-559.367" stroke-width="1.375" stroke="rgb(23, 190, 207)"/><path class="markmap-link" data-depth="3" data-path="1.14.20" d="M698,-463.273C738,-463.273,738,-382.18,778,-382.18" stroke-width="1.375" stroke="rgb(255, 127, 14)"/><path class="markmap-link" data-depth="3" data-path="1.14.22" d="M698,-463.273C738,-463.273,738,-163.992,778,-163.992" stroke-width="1.375" stroke="rgb(214, 39, 40)"/><path class="markmap-link" data-depth="4" data-path="1.24.26.27" d="M1080,43.695C1120,43.695,1120,106.102,1160,106.102" stroke-width="1.1875" stroke="rgb(188, 189, 34)"/><path class="markmap-link" data-depth="4" data-path="1.24.28.29" d="M1095,210.383C1135,210.383,1135,283.289,1175,283.289" stroke-width="1.1875" stroke="rgb(31, 119, 180)"/><path class="markmap-link" data-depth="4" data-path="1.24.30.31" d="M1093,366.57C1133,366.57,1133,418.477,1173,418.477" stroke-width="1.1875" stroke="rgb(44, 160, 44)"/><path class="markmap-link" data-depth="4" data-path="1.24.32.33" d="M1080,532.758C1120,532.758,1120,615.664,1160,615.664" stroke-width="1.1875" stroke="rgb(148, 103, 189)"/><path class="markmap-link" data-depth="3" data-path="1.24.25" d="M723,275.227C763,275.227,763,17.32,803,17.32" stroke-width="1.375" stroke="rgb(227, 119, 194)"/><path class="markmap-link" data-depth="3" data-path="1.24.26" d="M723,275.227C763,275.227,763,43.695,803,43.695" stroke-width="1.375" stroke="rgb(127, 127, 127)"/><path class="markmap-link" data-depth="3" data-path="1.24.28" d="M723,275.227C763,275.227,763,210.383,803,210.383" stroke-width="1.375" stroke="rgb(23, 190, 207)"/><path class="markmap-link" data-depth="3" data-path="1.24.30" d="M723,275.227C763,275.227,763,366.57,803,366.57" stroke-width="1.375" stroke="rgb(255, 127, 14)"/><path class="markmap-link" data-depth="3" data-path="1.24.32" d="M723,275.227C763,275.227,763,532.758,803,532.758" stroke-width="1.375" stroke="rgb(214, 39, 40)"/><path class="markmap-link" data-depth="3" data-path="1.34.35" d="M591,678.633C631,678.633,631,709.945,671,709.945" stroke-width="1.375" stroke="rgb(227, 119, 194)"/><path class="markmap-link" data-depth="4" data-path="1.36.37.38" d="M871,793.32C911,793.32,911,845.227,951,845.227" stroke-width="1.1875" stroke="rgb(127, 127, 127)"/><path class="markmap-link" data-depth="4" data-path="1.36.39.40" d="M732,918.508C772,918.508,772,960.414,812,960.414" stroke-width="1.1875" stroke="rgb(188, 189, 34)"/><path class="markmap-link" data-depth="4" data-path="1.36.41.42" d="M826,1043.695C866,1043.695,866,1095.602,906,1095.602" stroke-width="1.1875" stroke="rgb(31, 119, 180)"/><path class="markmap-link" data-depth="3" data-path="1.36.37" d="M595,918.695C635,918.695,635,793.32,675,793.32" stroke-width="1.375" stroke="rgb(227, 119, 194)"/><path class="markmap-link" data-depth="3" data-path="1.36.39" d="M595,918.695C635,918.695,635,918.508,675,918.508" stroke-width="1.375" stroke="rgb(127, 127, 127)"/><path class="markmap-link" data-depth="3" data-path="1.36.41" d="M595,918.695C635,918.695,635,1043.695,675,1043.695" stroke-width="1.375" stroke="rgb(23, 190, 207)"/><path class="markmap-link" data-depth="3" data-path="1.43.44" d="M575,1179.07C615,1179.07,615,1230.883,655,1230.883" stroke-width="1.375" stroke="rgb(44, 160, 44)"/><path class="markmap-link" data-depth="4" data-path="1.45.46.47" d="M932,1303.539C972,1303.539,972,1263.164,1012,1263.164" stroke-width="1.1875" stroke="rgb(140, 86, 75)"/><path class="markmap-link" data-depth="4" data-path="1.45.46.48" d="M932,1303.539C972,1303.539,972,1290.352,1012,1290.352" stroke-width="1.1875" stroke="rgb(227, 119, 194)"/><path class="markmap-link" data-depth="4" data-path="1.45.46.49" d="M932,1303.539C972,1303.539,972,1317.539,1012,1317.539" stroke-width="1.1875" stroke="rgb(127, 127, 127)"/><path class="markmap-link" data-depth="4" data-path="1.45.46.50" d="M932,1303.539C972,1303.539,972,1344.727,1012,1344.727" stroke-width="1.1875" stroke="rgb(188, 189, 34)"/><path class="markmap-link" data-depth="4" data-path="1.45.51.52" d="M812,1430.883C852,1430.883,852,1376.914,892,1376.914" stroke-width="1.1875" stroke="rgb(31, 119, 180)"/><path class="markmap-link" data-depth="4" data-path="1.45.51.53" d="M812,1430.883C852,1430.883,852,1404.102,892,1404.102" stroke-width="1.1875" stroke="rgb(255, 127, 14)"/><path class="markmap-link" data-depth="4" data-path="1.45.51.54" d="M812,1430.883C852,1430.883,852,1431.289,892,1431.289" stroke-width="1.1875" stroke="rgb(44, 160, 44)"/><path class="markmap-link" data-depth="4" data-path="1.45.51.55" d="M812,1430.883C852,1430.883,852,1458.477,892,1458.477" stroke-width="1.1875" stroke="rgb(214, 39, 40)"/><path class="markmap-link" data-depth="4" data-path="1.45.51.56" d="M812,1430.883C852,1430.883,852,1485.664,892,1485.664" stroke-width="1.1875" stroke="rgb(148, 103, 189)"/><path class="markmap-link" data-depth="3" data-path="1.45.46" d="M580,1367.398C620,1367.398,620,1303.539,660,1303.539" stroke-width="1.375" stroke="rgb(148, 103, 189)"/><path class="markmap-link" data-depth="3" data-path="1.45.51" d="M580,1367.398C620,1367.398,620,1430.883,660,1430.883" stroke-width="1.375" stroke="rgb(23, 190, 207)"/><path class="markmap-link" data-depth="4" data-path="1.57.58.59" d="M719,1546.227C759,1546.227,759,1516.852,799,1516.852" stroke-width="1.1875" stroke="rgb(127, 127, 127)"/><path class="markmap-link" data-depth="4" data-path="1.57.58.60" d="M719,1546.227C759,1546.227,759,1543.039,799,1543.039" stroke-width="1.1875" stroke="rgb(188, 189, 34)"/><path class="markmap-link" data-depth="4" data-path="1.57.58.61" d="M719,1546.227C759,1546.227,759,1569.227,799,1569.227" stroke-width="1.1875" stroke="rgb(23, 190, 207)"/><path class="markmap-link" data-depth="4" data-path="1.57.58.62" d="M719,1546.227C759,1546.227,759,1595.414,799,1595.414" stroke-width="1.1875" stroke="rgb(31, 119, 180)"/><path class="markmap-link" data-depth="4" data-path="1.57.63.64" d="M719,1642.883C759,1642.883,759,1626.602,799,1626.602" stroke-width="1.1875" stroke="rgb(44, 160, 44)"/><path class="markmap-link" data-depth="4" data-path="1.57.63.65" d="M719,1642.883C759,1642.883,759,1652.789,799,1652.789" stroke-width="1.1875" stroke="rgb(214, 39, 40)"/><path class="markmap-link" data-depth="4" data-path="1.57.63.66" d="M719,1642.883C759,1642.883,759,1678.977,799,1678.977" stroke-width="1.1875" stroke="rgb(148, 103, 189)"/><path class="markmap-link" data-depth="3" data-path="1.57.58" d="M639,1604.742C679,1604.742,679,1546.227,719,1546.227" stroke-width="1.375" stroke="rgb(227, 119, 194)"/><path class="markmap-link" data-depth="3" data-path="1.57.63" d="M639,1604.742C679,1604.742,679,1642.883,719,1642.883" stroke-width="1.375" stroke="rgb(255, 127, 14)"/><path class="markmap-link" data-depth="2" data-path="1.2" d="M307,11.25C347,11.25,347,-1582.992,387,-1582.992" stroke-width="1.75" stroke="rgb(255, 127, 14)"/><path class="markmap-link" data-depth="2" data-path="1.4" d="M307,11.25C347,11.25,347,-1193.023,387,-1193.023" stroke-width="1.75" stroke="rgb(140, 86, 75)"/><path class="markmap-link" data-depth="2" data-path="1.14" d="M307,11.25C347,11.25,347,-463.273,387,-463.273" stroke-width="1.75" stroke="rgb(140, 86, 75)"/><path class="markmap-link" data-depth="2" data-path="1.24" d="M307,11.25C347,11.25,347,275.227,387,275.227" stroke-width="1.75" stroke="rgb(140, 86, 75)"/><path class="markmap-link" data-depth="2" data-path="1.34" d="M307,11.25C347,11.25,347,678.633,387,678.633" stroke-width="1.75" stroke="rgb(140, 86, 75)"/><path class="markmap-link" data-depth="2" data-path="1.36" d="M307,11.25C347,11.25,347,918.695,387,918.695" stroke-width="1.75" stroke="rgb(140, 86, 75)"/><path class="markmap-link" data-depth="2" data-path="1.43" d="M307,11.25C347,11.25,347,1179.07,387,1179.07" stroke-width="1.75" stroke="rgb(255, 127, 14)"/><path class="markmap-link" data-depth="2" data-path="1.45" d="M307,11.25C347,11.25,347,1367.398,387,1367.398" stroke-width="1.75" stroke="rgb(214, 39, 40)"/><path class="markmap-link" data-depth="2" data-path="1.57" d="M307,11.25C347,11.25,347,1604.742,387,1604.742" stroke-width="1.75" stroke="rgb(140, 86, 75)"/><g class="markmap-highlight"/><g data-depth="3" data-path="1.2.3" class="markmap-node" transform="translate(614, -1635.3671875)"><line stroke="#9467bd" stroke-width="1.375" x1="-1" x2="524" y1="83.6875" y2="83.6875"/><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="506" height="83"><div xmlns="http://www.w3.org/1999/xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><table data-lines="12,17">
+<thead data-lines="12,13">
+<tr data-lines="12,13">
+<th>Phase</th>
+<th>Période</th>
+<th>Focus</th>
+<th>Livrable principal</th>
+</tr>
+</thead>
+<tbody data-lines="14,17">
+<tr data-lines="14,15">
+<td><strong>Phase 1</strong></td>
+<td>Mois 1-2</td>
+<td>Fondations Data</td>
+<td>Pipeline ingestion + génération IA</td>
+</tr>
+<tr data-lines="15,16">
+<td><strong>Phase 2</strong></td>
+<td>Mois 3-4</td>
+<td>Socle Technique</td>
+<td>API + site minimal fonctionnel</td>
+</tr>
+<tr data-lines="16,17">
+<td><strong>Phase 3</strong></td>
+<td>Mois 5-6</td>
+<td>Social &amp; Lancement</td>
+<td>Notations, feeds, beta publique</td>
+</tr>
+</tbody>
+</table></div></div></foreignObject></g><g data-depth="2" data-path="1.2" class="markmap-node" transform="translate(387, -1603.8671875)"><line stroke="#ff7f0e" stroke-width="1.75" x1="-1" x2="149" y1="20.875" y2="20.875"/><circle stroke-width="1.5" r="6" stroke="#ff7f0e" fill="var(--markmap-circle-open-bg)" cx="147" cy="20.875"/><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="131" height="20"><div xmlns="http://www.w3.org/1999/xhtml"><div xmlns="http://www.w3.org/1999/xhtml">1. Vue d'ensemble</div></div></foreignObject></g><g data-depth="3" data-path="1.4.5" class="markmap-node" transform="translate(778, -1493.3671875)"><line stroke="#e377c2" stroke-width="1.375" x1="-1" x2="72" y1="20.6875" y2="20.6875"/><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="54" height="20"><div xmlns="http://www.w3.org/1999/xhtml"><div xmlns="http://www.w3.org/1999/xhtml">Objectif</div></div></foreignObject></g><g data-depth="4" data-path="1.4.6.7" class="markmap-node" transform="translate(1132, -1540.9921875)"><line stroke="#bcbd22" stroke-width="1.1875" x1="-1" x2="665" y1="168.59375" y2="168.59375"/><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="647" height="168"><div xmlns="http://www.w3.org/1999/xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><table data-lines="27,36">
+<thead data-lines="27,28">
+<tr data-lines="27,28">
+<th>Jour</th>
+<th>Tâche</th>
+<th>Livrable</th>
+</tr>
+</thead>
+<tbody data-lines="29,36">
+<tr data-lines="29,30">
+<td>1-2</td>
+<td>Initialiser repo Git, structure Go</td>
+<td><code>cinema-core/</code> avec cmd/, internal/</td>
+</tr>
+<tr data-lines="30,31">
+<td>3-4</td>
+<td>Docker Compose (Postgres, Redis, Meilisearch)</td>
+<td><code>docker-compose.yml</code> fonctionnel</td>
+</tr>
+<tr data-lines="31,32">
+<td>5-6</td>
+<td>Migrations DB (schema core)</td>
+<td>Tables <code>works</code>, <code>persons</code>, <code>work_sources</code></td>
+</tr>
+<tr data-lines="32,33">
+<td>7-8</td>
+<td>Client Wikidata basique</td>
+<td>Fetch par ID, parsing JSON</td>
+</tr>
+<tr data-lines="33,34">
+<td>9-10</td>
+<td>Normalisation données</td>
+<td>Mapping Wikidata → struct Go</td>
+</tr>
+<tr data-lines="34,35">
+<td>11-12</td>
+<td>Tests ingestion</td>
+<td>100 œuvres test en base</td>
+</tr>
+<tr data-lines="35,36">
+<td>13-14</td>
+<td>Documentation</td>
+<td>README setup, env example</td>
+</tr>
+</tbody>
+</table></div></div></foreignObject></g><g data-depth="3" data-path="1.4.6" class="markmap-node" transform="translate(778, -1466.9921875)"><line stroke="#7f7f7f" stroke-width="1.375" x1="-1" x2="276" y1="20.6875" y2="20.6875"/><circle stroke-width="1.5" r="6" stroke="#7f7f7f" fill="var(--markmap-circle-open-bg)" cx="274" cy="20.6875"/><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="258" height="20"><div xmlns="http://www.w3.org/1999/xhtml"><div xmlns="http://www.w3.org/1999/xhtml">Semaines 1-2 : Setup &amp; Architecture</div></div></foreignObject></g><g data-depth="4" data-path="1.4.8.9" class="markmap-node" transform="translate(1122, -1361.8046875)"><line stroke="#1f77b4" stroke-width="1.1875" x1="-1" x2="468" y1="166.59375" y2="166.59375"/><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="450" height="166"><div xmlns="http://www.w3.org/1999/xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><table data-lines="41,50">
+<thead data-lines="41,42">
+<tr data-lines="41,42">
+<th>Jour</th>
+<th>Tâche</th>
+<th>Livrable</th>
+</tr>
+</thead>
+<tbody data-lines="43,50">
+<tr data-lines="43,44">
+<td>15-16</td>
+<td>Worker ingestion (cron)</td>
+<td>Job toutes les 6h</td>
+</tr>
+<tr data-lines="44,45">
+<td>17-18</td>
+<td>Queue PostgreSQL</td>
+<td>Table <code>job_queue</code>, status tracking</td>
+</tr>
+<tr data-lines="45,46">
+<td>19-20</td>
+<td>Retry logic</td>
+<td>Backoff exponentiel, dead letter</td>
+</tr>
+<tr data-lines="46,47">
+<td>21-22</td>
+<td>Quality scoring</td>
+<td>Algo scoring basé sur complétude</td>
+</tr>
+<tr data-lines="47,48">
+<td>23-24</td>
+<td>Monitoring basique</td>
+<td>Logs structurés, health check</td>
+</tr>
+<tr data-lines="48,49">
+<td>25-26</td>
+<td>Tests pipeline</td>
+<td>1000 œuvres ingérées auto</td>
+</tr>
+<tr data-lines="49,50">
+<td>27-28</td>
+<td>Optimisation</td>
+<td>Batch inserts, conn pooling</td>
+</tr>
+</tbody>
+</table></div></div></foreignObject></g><g data-depth="3" data-path="1.4.8" class="markmap-node" transform="translate(778, -1288.8046875)"><line stroke="#17becf" stroke-width="1.375" x1="-1" x2="266" y1="20.6875" y2="20.6875"/><circle stroke-width="1.5" r="6" stroke="#17becf" fill="var(--markmap-circle-open-bg)" cx="264" cy="20.6875"/><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="248" height="20"><div xmlns="http://www.w3.org/1999/xhtml"><div xmlns="http://www.w3.org/1999/xhtml">Semaines 3-4 : Pipeline &amp; Workers</div></div></foreignObject></g><g data-depth="4" data-path="1.4.10.11" class="markmap-node" transform="translate(1085, -1184.6171875)"><line stroke="#2ca02c" stroke-width="1.1875" x1="-1" x2="411" y1="166.59375" y2="166.59375"/><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="393" height="166"><div xmlns="http://www.w3.org/1999/xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><table data-lines="55,64">
+<thead data-lines="55,56">
+<tr data-lines="55,56">
+<th>Jour</th>
+<th>Tâche</th>
+<th>Livrable</th>
+</tr>
+</thead>
+<tbody data-lines="57,64">
+<tr data-lines="57,58">
+<td>29-30</td>
+<td>Client OpenAI</td>
+<td>Client Go, prompts tests</td>
+</tr>
+<tr data-lines="58,59">
+<td>31-32</td>
+<td>Prompt engineering</td>
+<td>Template description film</td>
+</tr>
+<tr data-lines="59,60">
+<td>33-34</td>
+<td>Worker génération</td>
+<td>Queue + génération async</td>
+</tr>
+<tr data-lines="60,61">
+<td>35-36</td>
+<td>Quality check IA</td>
+<td>Scoring auto des descriptions</td>
+</tr>
+<tr data-lines="61,62">
+<td>37-38</td>
+<td>Review workflow</td>
+<td>Flag pour validation humaine</td>
+</tr>
+<tr data-lines="62,63">
+<td>39-40</td>
+<td>Tests génération</td>
+<td>500 descriptions générées</td>
+</tr>
+<tr data-lines="63,64">
+<td>41-42</td>
+<td>Itération prompts</td>
+<td>Amélioration qualité</td>
+</tr>
+</tbody>
+</table></div></div></foreignObject></g><g data-depth="3" data-path="1.4.10" class="markmap-node" transform="translate(778, -1111.6171875)"><line stroke="#ff7f0e" stroke-width="1.375" x1="-1" x2="229" y1="20.6875" y2="20.6875"/><circle stroke-width="1.5" r="6" stroke="#ff7f0e" fill="var(--markmap-circle-open-bg)" cx="227" cy="20.6875"/><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="211" height="20"><div xmlns="http://www.w3.org/1999/xhtml"><div xmlns="http://www.w3.org/1999/xhtml">Semaines 5-6 : Génération IA</div></div></foreignObject></g><g data-depth="4" data-path="1.4.12.13" class="markmap-node" transform="translate(1094, -1007.4296875)"><line stroke="#9467bd" stroke-width="1.1875" x1="-1" x2="411" y1="166.59375" y2="166.59375"/><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="393" height="166"><div xmlns="http://www.w3.org/1999/xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><table data-lines="69,78">
+<thead data-lines="69,70">
+<tr data-lines="69,70">
+<th>Jour</th>
+<th>Tâche</th>
+<th>Livrable</th>
+</tr>
+</thead>
+<tbody data-lines="71,78">
+<tr data-lines="71,72">
+<td>43-44</td>
+<td>Images (liens)</td>
+<td>Table <code>work_images</code>, fetch URLs</td>
+</tr>
+<tr data-lines="72,73">
+<td>45-46</td>
+<td>Personnes &amp; crew</td>
+<td>Ingestion cast + crew</td>
+</tr>
+<tr data-lines="73,74">
+<td>47-48</td>
+<td>Relations œuvres</td>
+<td>Suite, remake, série/saisons</td>
+</tr>
+<tr data-lines="74,75">
+<td>49-50</td>
+<td>Meilisearch index</td>
+<td>Indexation search</td>
+</tr>
+<tr data-lines="75,76">
+<td>51-52</td>
+<td>Tests charge</td>
+<td>10k œuvres, perf OK</td>
+</tr>
+<tr data-lines="76,77">
+<td>53-54</td>
+<td>Backup setup</td>
+<td>Cron pg_dump, rsync</td>
+</tr>
+<tr data-lines="77,78">
+<td>55-56</td>
+<td>Docs API interne</td>
+<td>Spec endpoints core</td>
+</tr>
+</tbody>
+</table></div></div></foreignObject></g><g data-depth="3" data-path="1.4.12" class="markmap-node" transform="translate(778, -934.4296875)"><line stroke="#d62728" stroke-width="1.375" x1="-1" x2="238" y1="20.6875" y2="20.6875"/><circle stroke-width="1.5" r="6" stroke="#d62728" fill="var(--markmap-circle-open-bg)" cx="236" cy="20.6875"/><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="220" height="20"><div xmlns="http://www.w3.org/1999/xhtml"><div xmlns="http://www.w3.org/1999/xhtml">Semaines 7-8 : Polissage Data</div></div></foreignObject></g><g data-depth="2" data-path="1.4" class="markmap-node" transform="translate(387, -1213.8984375)"><line stroke="#8c564b" stroke-width="1.75" x1="-1" x2="313" y1="20.875" y2="20.875"/><circle stroke-width="1.5" r="6" stroke="#8c564b" fill="var(--markmap-circle-open-bg)" cx="311" cy="20.875"/><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="295" height="20"><div xmlns="http://www.w3.org/1999/xhtml"><div xmlns="http://www.w3.org/1999/xhtml">2. Phase 1 — Fondations Data (Mois 1-2)</div></div></foreignObject></g><g data-depth="3" data-path="1.14.15" class="markmap-node" transform="translate(778, -783.6171875)"><line stroke="#e377c2" stroke-width="1.375" x1="-1" x2="72" y1="20.6875" y2="20.6875"/><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="54" height="20"><div xmlns="http://www.w3.org/1999/xhtml"><div xmlns="http://www.w3.org/1999/xhtml">Objectif</div></div></foreignObject></g><g data-depth="4" data-path="1.14.16.17" class="markmap-node" transform="translate(1059, -830.2421875)"><line stroke="#bcbd22" stroke-width="1.1875" x1="-1" x2="426" y1="166.59375" y2="166.59375"/><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="408" height="166"><div xmlns="http://www.w3.org/1999/xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><table data-lines="90,99">
+<thead data-lines="90,91">
+<tr data-lines="90,91">
+<th>Jour</th>
+<th>Tâche</th>
+<th>Livrable</th>
+</tr>
+</thead>
+<tbody data-lines="92,99">
+<tr data-lines="92,93">
+<td>57-58</td>
+<td>API Gateway</td>
+<td>Routing, middleware base</td>
+</tr>
+<tr data-lines="93,94">
+<td>59-60</td>
+<td>Endpoints works</td>
+<td>GET /works, /works/:id</td>
+</tr>
+<tr data-lines="94,95">
+<td>61-62</td>
+<td>Endpoints persons</td>
+<td>GET /persons, /persons/:id</td>
+</tr>
+<tr data-lines="95,96">
+<td>63-64</td>
+<td>Search endpoint</td>
+<td>GET /works/search (Meilisearch)</td>
+</tr>
+<tr data-lines="96,97">
+<td>65-66</td>
+<td>Pagination</td>
+<td>Cursor pagination</td>
+</tr>
+<tr data-lines="97,98">
+<td>67-68</td>
+<td>Rate limiting</td>
+<td>Redis-based</td>
+</tr>
+<tr data-lines="98,99">
+<td>69-70</td>
+<td>Tests API</td>
+<td>Collection Postman/HTTP</td>
+</tr>
+</tbody>
+</table></div></div></foreignObject></g><g data-depth="3" data-path="1.14.16" class="markmap-node" transform="translate(778, -757.2421875)"><line stroke="#7f7f7f" stroke-width="1.375" x1="-1" x2="203" y1="20.6875" y2="20.6875"/><circle stroke-width="1.5" r="6" stroke="#7f7f7f" fill="var(--markmap-circle-open-bg)" cx="201" cy="20.6875"/><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="185" height="20"><div xmlns="http://www.w3.org/1999/xhtml"><div xmlns="http://www.w3.org/1999/xhtml">Semaines 9-10 : API Core</div></div></foreignObject></g><g data-depth="4" data-path="1.14.18.19" class="markmap-node" transform="translate(1124, -653.0546875)"><line stroke="#1f77b4" stroke-width="1.1875" x1="-1" x2="381" y1="166.59375" y2="166.59375"/><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="363" height="166"><div xmlns="http://www.w3.org/1999/xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><table data-lines="104,113">
+<thead data-lines="104,105">
+<tr data-lines="104,105">
+<th>Jour</th>
+<th>Tâche</th>
+<th>Livrable</th>
+</tr>
+</thead>
+<tbody data-lines="106,113">
+<tr data-lines="106,107">
+<td>71-72</td>
+<td>Migrations social</td>
+<td>Tables <code>users</code>, <code>oauth</code>, <code>ratings</code></td>
+</tr>
+<tr data-lines="107,108">
+<td>73-74</td>
+<td>OAuth Google</td>
+<td>Login avec Google</td>
+</tr>
+<tr data-lines="108,109">
+<td>75-76</td>
+<td>OAuth Apple</td>
+<td>Login avec Apple</td>
+</tr>
+<tr data-lines="109,110">
+<td>77-78</td>
+<td>OAuth X</td>
+<td>Login avec X</td>
+</tr>
+<tr data-lines="110,111">
+<td>79-80</td>
+<td>JWT handling</td>
+<td>Access + refresh tokens</td>
+</tr>
+<tr data-lines="111,112">
+<td>81-82</td>
+<td>Auth middleware</td>
+<td>Protection endpoints</td>
+</tr>
+<tr data-lines="112,113">
+<td>83-84</td>
+<td>Tests auth</td>
+<td>Flow complet testé</td>
+</tr>
+</tbody>
+</table></div></div></foreignObject></g><g data-depth="3" data-path="1.14.18" class="markmap-node" transform="translate(778, -580.0546875)"><line stroke="#17becf" stroke-width="1.375" x1="-1" x2="268" y1="20.6875" y2="20.6875"/><circle stroke-width="1.5" r="6" stroke="#17becf" fill="var(--markmap-circle-open-bg)" cx="266" cy="20.6875"/><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="250" height="20"><div xmlns="http://www.w3.org/1999/xhtml"><div xmlns="http://www.w3.org/1999/xhtml">Semaines 11-12 : Auth &amp; Social DB</div></div></foreignObject></g><g data-depth="4" data-path="1.14.20.21" class="markmap-node" transform="translate(1105, -475.8671875)"><line stroke="#2ca02c" stroke-width="1.1875" x1="-1" x2="373" y1="166.59375" y2="166.59375"/><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="355" height="166"><div xmlns="http://www.w3.org/1999/xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><table data-lines="118,127">
+<thead data-lines="118,119">
+<tr data-lines="118,119">
+<th>Jour</th>
+<th>Tâche</th>
+<th>Livrable</th>
+</tr>
+</thead>
+<tbody data-lines="120,127">
+<tr data-lines="120,121">
+<td>85-86</td>
+<td>Endpoints ratings</td>
+<td>POST /works/:id/rate</td>
+</tr>
+<tr data-lines="121,122">
+<td>87-88</td>
+<td>Endpoints posts</td>
+<td>POST /posts, GET /feeds</td>
+</tr>
+<tr data-lines="122,123">
+<td>89-90</td>
+<td>Endpoints votes</td>
+<td>POST /posts/:id/vote</td>
+</tr>
+<tr data-lines="123,124">
+<td>91-92</td>
+<td>Feed algorithm</td>
+<td>Chronologique + tendance</td>
+</tr>
+<tr data-lines="124,125">
+<td>93-94</td>
+<td>Cache feeds</td>
+<td>Redis cache</td>
+</tr>
+<tr data-lines="125,126">
+<td>95-96</td>
+<td>Tests social</td>
+<td>Scénarios complets</td>
+</tr>
+<tr data-lines="126,127">
+<td>97-98</td>
+<td>API docs</td>
+<td>Spec complète</td>
+</tr>
+</tbody>
+</table></div></div></foreignObject></g><g data-depth="3" data-path="1.14.20" class="markmap-node" transform="translate(778, -402.8671875)"><line stroke="#ff7f0e" stroke-width="1.375" x1="-1" x2="249" y1="20.6875" y2="20.6875"/><circle stroke-width="1.5" r="6" stroke="#ff7f0e" fill="var(--markmap-circle-open-bg)" cx="247" cy="20.6875"/><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="231" height="20"><div xmlns="http://www.w3.org/1999/xhtml"><div xmlns="http://www.w3.org/1999/xhtml">Semaines 13-14 : Social Service</div></div></foreignObject></g><g data-depth="4" data-path="1.14.22.23" class="markmap-node" transform="translate(1127, -298.6796875)"><line stroke="#9467bd" stroke-width="1.1875" x1="-1" x2="465" y1="248.59375" y2="248.59375"/><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="447" height="248"><div xmlns="http://www.w3.org/1999/xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><table data-lines="132,145">
+<thead data-lines="132,133">
+<tr data-lines="132,133">
+<th>Jour</th>
+<th>Tâche</th>
+<th>Livrable</th>
+</tr>
+</thead>
+<tbody data-lines="134,145">
+<tr data-lines="134,135">
+<td>99-100</td>
+<td>Setup Next.js 14</td>
+<td>App Router, Tailwind</td>
+</tr>
+<tr data-lines="135,136">
+<td>101-102</td>
+<td>Layout base</td>
+<td>Header, navigation</td>
+</tr>
+<tr data-lines="136,137">
+<td>103-104</td>
+<td>Page Home</td>
+<td>Feed global (lecture)</td>
+</tr>
+<tr data-lines="137,138">
+<td>105-106</td>
+<td>Page Work</td>
+<td>Fiche œuvre complète</td>
+</tr>
+<tr data-lines="138,139">
+<td>107-108</td>
+<td>Page Person</td>
+<td>Fiche personne</td>
+</tr>
+<tr data-lines="139,140">
+<td>109-110</td>
+<td>Auth frontend</td>
+<td>Login/logout flows</td>
+</tr>
+<tr data-lines="140,141">
+<td>111-112</td>
+<td>Search UI</td>
+<td>Barre recherche + résultats</td>
+</tr>
+<tr data-lines="141,142">
+<td>113-114</td>
+<td>Notation UI</td>
+<td>Modal notation (read-only si pas auth)</td>
+</tr>
+<tr data-lines="142,143">
+<td>115-116</td>
+<td>Responsive</td>
+<td>Mobile OK</td>
+</tr>
+<tr data-lines="143,144">
+<td>117-118</td>
+<td>SEO base</td>
+<td>Meta tags, sitemap</td>
+</tr>
+<tr data-lines="144,145">
+<td>119-120</td>
+<td>Tests E2E</td>
+<td>Cypress/Playwright</td>
+</tr>
+</tbody>
+</table></div></div></foreignObject></g><g data-depth="3" data-path="1.14.22" class="markmap-node" transform="translate(778, -184.6796875)"><line stroke="#d62728" stroke-width="1.375" x1="-1" x2="271" y1="20.6875" y2="20.6875"/><circle stroke-width="1.5" r="6" stroke="#d62728" fill="var(--markmap-circle-open-bg)" cx="269" cy="20.6875"/><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="253" height="20"><div xmlns="http://www.w3.org/1999/xhtml"><div xmlns="http://www.w3.org/1999/xhtml">Semaines 15-16 : Frontend Minimal</div></div></foreignObject></g><g data-depth="2" data-path="1.14" class="markmap-node" transform="translate(387, -484.1484375)"><line stroke="#8c564b" stroke-width="1.75" x1="-1" x2="313" y1="20.875" y2="20.875"/><circle stroke-width="1.5" r="6" stroke="#8c564b" fill="var(--markmap-circle-open-bg)" cx="311" cy="20.875"/><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="295" height="20"><div xmlns="http://www.w3.org/1999/xhtml"><div xmlns="http://www.w3.org/1999/xhtml">3. Phase 2 — Socle Technique (Mois 3-4)</div></div></foreignObject></g><g data-depth="3" data-path="1.24.25" class="markmap-node" transform="translate(803, -3.3671875)"><line stroke="#e377c2" stroke-width="1.375" x1="-1" x2="72" y1="20.6875" y2="20.6875"/><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="54" height="20"><div xmlns="http://www.w3.org/1999/xhtml"><div xmlns="http://www.w3.org/1999/xhtml">Objectif</div></div></foreignObject></g><g data-depth="4" data-path="1.24.26.27" class="markmap-node" transform="translate(1160, -39.4921875)"><line stroke="#bcbd22" stroke-width="1.1875" x1="-1" x2="434" y1="145.59375" y2="145.59375"/><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="416" height="145"><div xmlns="http://www.w3.org/1999/xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><table data-lines="157,165">
+<thead data-lines="157,158">
+<tr data-lines="157,158">
+<th>Jour</th>
+<th>Tâche</th>
+<th>Livrable</th>
+</tr>
+</thead>
+<tbody data-lines="159,165">
+<tr data-lines="159,160">
+<td>121-122</td>
+<td>Modal notation complète</td>
+<td>6 critères, sliders</td>
+</tr>
+<tr data-lines="160,161">
+<td>123-124</td>
+<td>Soumission note</td>
+<td>POST + update moyenne</td>
+</tr>
+<tr data-lines="161,162">
+<td>125-126</td>
+<td>Page profil utilisateur</td>
+<td>Stats, historique</td>
+</tr>
+<tr data-lines="162,163">
+<td>127-128</td>
+<td>Édition profil</td>
+<td>Bio, avatar</td>
+</tr>
+<tr data-lines="163,164">
+<td>129-130</td>
+<td>Mes notes</td>
+<td>Liste notes données</td>
+</tr>
+<tr data-lines="164,165">
+<td>131-132</td>
+<td>Tests notation</td>
+<td>Flow complet</td>
+</tr>
+</tbody>
+</table></div></div></foreignObject></g><g data-depth="3" data-path="1.24.26" class="markmap-node" transform="translate(803, 23.0078125)"><line stroke="#7f7f7f" stroke-width="1.375" x1="-1" x2="279" y1="20.6875" y2="20.6875"/><circle stroke-width="1.5" r="6" stroke="#7f7f7f" fill="var(--markmap-circle-open-bg)" cx="277" cy="20.6875"/><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="261" height="20"><div xmlns="http://www.w3.org/1999/xhtml"><div xmlns="http://www.w3.org/1999/xhtml">Semaines 17-18 : Notations &amp; Profils</div></div></foreignObject></g><g data-depth="4" data-path="1.24.28.29" class="markmap-node" transform="translate(1175, 116.6953125)"><line stroke="#1f77b4" stroke-width="1.1875" x1="-1" x2="397" y1="166.59375" y2="166.59375"/><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="379" height="166"><div xmlns="http://www.w3.org/1999/xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><table data-lines="170,179">
+<thead data-lines="170,171">
+<tr data-lines="170,171">
+<th>Jour</th>
+<th>Tâche</th>
+<th>Livrable</th>
+</tr>
+</thead>
+<tbody data-lines="172,179">
+<tr data-lines="172,173">
+<td>133-134</td>
+<td>Création posts</td>
+<td>Input + soumission</td>
+</tr>
+<tr data-lines="173,174">
+<td>135-136</td>
+<td>Feed œuvre</td>
+<td>Posts liés à œuvre</td>
+</tr>
+<tr data-lines="174,175">
+<td>137-138</td>
+<td>Feed global perso</td>
+<td>Basé sur follows/activité</td>
+</tr>
+<tr data-lines="175,176">
+<td>139-140</td>
+<td>Votes up/down</td>
+<td>UI + API</td>
+</tr>
+<tr data-lines="176,177">
+<td>141-142</td>
+<td>Réponses (1 niveau)</td>
+<td>Threads basiques</td>
+</tr>
+<tr data-lines="177,178">
+<td>143-144</td>
+<td>Modération auto</td>
+<td>Flag contenu toxique</td>
+</tr>
+<tr data-lines="178,179">
+<td>145-146</td>
+<td>Tests interactions</td>
+<td>Scénarios complets</td>
+</tr>
+</tbody>
+</table></div></div></foreignObject></g><g data-depth="3" data-path="1.24.28" class="markmap-node" transform="translate(803, 189.6953125)"><line stroke="#17becf" stroke-width="1.375" x1="-1" x2="294" y1="20.6875" y2="20.6875"/><circle stroke-width="1.5" r="6" stroke="#17becf" fill="var(--markmap-circle-open-bg)" cx="292" cy="20.6875"/><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="276" height="20"><div xmlns="http://www.w3.org/1999/xhtml"><div xmlns="http://www.w3.org/1999/xhtml">Semaines 19-20 : Feeds &amp; Interactions</div></div></foreignObject></g><g data-depth="4" data-path="1.24.30.31" class="markmap-node" transform="translate(1173, 293.8828125)"><line stroke="#2ca02c" stroke-width="1.1875" x1="-1" x2="401" y1="124.59375" y2="124.59375"/><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="383" height="124"><div xmlns="http://www.w3.org/1999/xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><table data-lines="184,191">
+<thead data-lines="184,185">
+<tr data-lines="184,185">
+<th>Jour</th>
+<th>Tâche</th>
+<th>Livrable</th>
+</tr>
+</thead>
+<tbody data-lines="186,191">
+<tr data-lines="186,187">
+<td>147-148</td>
+<td>Dashboard admin</td>
+<td>Stats, queue modération</td>
+</tr>
+<tr data-lines="187,188">
+<td>149-150</td>
+<td>Gestion tickets</td>
+<td>Assignation, résolution</td>
+</tr>
+<tr data-lines="188,189">
+<td>151-152</td>
+<td>Outils modération</td>
+<td>Delete posts, ban user</td>
+</tr>
+<tr data-lines="189,190">
+<td>153-154</td>
+<td>Revendication fiches</td>
+<td>Formulaire + validation</td>
+</tr>
+<tr data-lines="190,191">
+<td>155-156</td>
+<td>Tests admin</td>
+<td>Flows complets</td>
+</tr>
+</tbody>
+</table></div></div></foreignObject></g><g data-depth="3" data-path="1.24.30" class="markmap-node" transform="translate(803, 345.8828125)"><line stroke="#ff7f0e" stroke-width="1.375" x1="-1" x2="292" y1="20.6875" y2="20.6875"/><circle stroke-width="1.5" r="6" stroke="#ff7f0e" fill="var(--markmap-circle-open-bg)" cx="290" cy="20.6875"/><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="274" height="20"><div xmlns="http://www.w3.org/1999/xhtml"><div xmlns="http://www.w3.org/1999/xhtml">Semaines 21-22 : Admin &amp; Modération</div></div></foreignObject></g><g data-depth="4" data-path="1.24.32.33" class="markmap-node" transform="translate(1160, 429.0703125)"><line stroke="#9467bd" stroke-width="1.1875" x1="-1" x2="398" y1="186.59375" y2="186.59375"/><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="380" height="186"><div xmlns="http://www.w3.org/1999/xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><table data-lines="196,206">
+<thead data-lines="196,197">
+<tr data-lines="196,197">
+<th>Jour</th>
+<th>Tâche</th>
+<th>Livrable</th>
+</tr>
+</thead>
+<tbody data-lines="198,206">
+<tr data-lines="198,199">
+<td>157-158</td>
+<td>Déploiement prod</td>
+<td>VPS configuré, CI/CD</td>
+</tr>
+<tr data-lines="199,200">
+<td>159-160</td>
+<td>Monitoring prod</td>
+<td>Alertes, dashboards</td>
+</tr>
+<tr data-lines="200,201">
+<td>161-162</td>
+<td>Beta fermée</td>
+<td>100-500 utilisateurs invités</td>
+</tr>
+<tr data-lines="201,202">
+<td>163-164</td>
+<td>Collecte feedback</td>
+<td>Formulaires, interviews</td>
+</tr>
+<tr data-lines="202,203">
+<td>165-166</td>
+<td>Bug fixes</td>
+<td>Priorisation rapide</td>
+</tr>
+<tr data-lines="203,204">
+<td>167-168</td>
+<td>Itération</td>
+<td>Améliorations majeures</td>
+</tr>
+<tr data-lines="204,205">
+<td>169-170</td>
+<td>Préparation public</td>
+<td>Landing, FAQ, réseaux</td>
+</tr>
+<tr data-lines="205,206">
+<td>171-172</td>
+<td>Lancement public</td>
+<td>Annonce, acquisition</td>
+</tr>
+</tbody>
+</table></div></div></foreignObject></g><g data-depth="3" data-path="1.24.32" class="markmap-node" transform="translate(803, 512.0703125)"><line stroke="#d62728" stroke-width="1.375" x1="-1" x2="279" y1="20.6875" y2="20.6875"/><circle stroke-width="1.5" r="6" stroke="#d62728" fill="var(--markmap-circle-open-bg)" cx="277" cy="20.6875"/><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="261" height="20"><div xmlns="http://www.w3.org/1999/xhtml"><div xmlns="http://www.w3.org/1999/xhtml">Semaines 23-24 : Beta &amp; Lancement</div></div></foreignObject></g><g data-depth="2" data-path="1.24" class="markmap-node" transform="translate(387, 254.3515625)"><line stroke="#8c564b" stroke-width="1.75" x1="-1" x2="338" y1="20.875" y2="20.875"/><circle stroke-width="1.5" r="6" stroke="#8c564b" fill="var(--markmap-circle-open-bg)" cx="336" cy="20.875"/><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="320" height="20"><div xmlns="http://www.w3.org/1999/xhtml"><div xmlns="http://www.w3.org/1999/xhtml">4. Phase 3 — Social &amp; Lancement (Mois 5-6)</div></div></foreignObject></g><g data-depth="3" data-path="1.34.35" class="markmap-node" transform="translate(671, 626.2578125)"><line stroke="#e377c2" stroke-width="1.375" x1="-1" x2="484" y1="83.6875" y2="83.6875"/><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="466" height="83"><div xmlns="http://www.w3.org/1999/xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><table data-lines="213,218">
+<thead data-lines="213,214">
+<tr data-lines="213,214">
+<th>Milestone</th>
+<th>Date</th>
+<th>Critère de succès</th>
+</tr>
+</thead>
+<tbody data-lines="215,218">
+<tr data-lines="215,216">
+<td><strong>M1</strong> : Data pipeline</td>
+<td>Fin mois 2</td>
+<td>10k œuvres, descriptions IA validées</td>
+</tr>
+<tr data-lines="216,217">
+<td><strong>M2</strong> : API stable</td>
+<td>Fin mois 4</td>
+<td>100% endpoints testés, &lt;200ms p95</td>
+</tr>
+<tr data-lines="217,218">
+<td><strong>M3</strong> : Beta live</td>
+<td>Fin mois 6</td>
+<td>500 utilisateurs actifs, &lt;5% churn</td>
+</tr>
+</tbody>
+</table></div></div></foreignObject></g><g data-depth="2" data-path="1.34" class="markmap-node" transform="translate(387, 657.7578125)"><line stroke="#8c564b" stroke-width="1.75" x1="-1" x2="206" y1="20.875" y2="20.875"/><circle stroke-width="1.5" r="6" stroke="#8c564b" fill="var(--markmap-circle-open-bg)" cx="204" cy="20.875"/><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="188" height="20"><div xmlns="http://www.w3.org/1999/xhtml"><div xmlns="http://www.w3.org/1999/xhtml">5. Jalons clés (Milestones)</div></div></foreignObject></g><g data-depth="4" data-path="1.36.37.38" class="markmap-node" transform="translate(951, 720.6328125)"><line stroke="#7f7f7f" stroke-width="1.1875" x1="-1" x2="357" y1="124.59375" y2="124.59375"/><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="339" height="124"><div xmlns="http://www.w3.org/1999/xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><table data-lines="225,232">
+<thead data-lines="225,226">
+<tr data-lines="225,226">
+<th>Élément</th>
+<th>Coût mensuel estimé</th>
+</tr>
+</thead>
+<tbody data-lines="227,232">
+<tr data-lines="227,228">
+<td>VPS Hetzner CX41 (8 Go)</td>
+<td>~12€</td>
+</tr>
+<tr data-lines="228,229">
+<td>Backup storage</td>
+<td>~5€</td>
+</tr>
+<tr data-lines="229,230">
+<td>Domaine + SSL</td>
+<td>~15€/an</td>
+</tr>
+<tr data-lines="230,231">
+<td>OpenAI API (génération)</td>
+<td>~50-100€ (variable)</td>
+</tr>
+<tr data-lines="231,232">
+<td><strong>Total mensuel</strong></td>
+<td><strong>~70-120€</strong></td>
+</tr>
+</tbody>
+</table></div></div></foreignObject></g><g data-depth="3" data-path="1.36.37" class="markmap-node" transform="translate(675, 772.6328125)"><line stroke="#e377c2" stroke-width="1.375" x1="-1" x2="198" y1="20.6875" y2="20.6875"/><circle stroke-width="1.5" r="6" stroke="#e377c2" fill="var(--markmap-circle-open-bg)" cx="196" cy="20.6875"/><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="180" height="20"><div xmlns="http://www.w3.org/1999/xhtml"><div xmlns="http://www.w3.org/1999/xhtml">Infrastructure (VPS 8 Go)</div></div></foreignObject></g><g data-depth="4" data-path="1.36.39.40" class="markmap-node" transform="translate(812, 855.8203125)"><line stroke="#bcbd22" stroke-width="1.1875" x1="-1" x2="447" y1="104.59375" y2="104.59375"/><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="429" height="104"><div xmlns="http://www.w3.org/1999/xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><table data-lines="235,241">
+<thead data-lines="235,236">
+<tr data-lines="235,236">
+<th>Outil</th>
+<th>Usage</th>
+<th>Coût</th>
+</tr>
+</thead>
+<tbody data-lines="237,241">
+<tr data-lines="237,238">
+<td>Cursor</td>
+<td>Développement</td>
+<td>20$/mois</td>
+</tr>
+<tr data-lines="238,239">
+<td>GitHub</td>
+<td>Repo + CI</td>
+<td>Gratuit (public)</td>
+</tr>
+<tr data-lines="239,240">
+<td>Vercel (option)</td>
+<td>Frontend hosting</td>
+<td>Gratuit tier</td>
+</tr>
+<tr data-lines="240,241">
+<td>Meilisearch Cloud (option)</td>
+<td>Search hosted</td>
+<td>Self-hosté gratuit</td>
+</tr>
+</tbody>
+</table></div></div></foreignObject></g><g data-depth="3" data-path="1.36.39" class="markmap-node" transform="translate(675, 897.8203125)"><line stroke="#7f7f7f" stroke-width="1.375" x1="-1" x2="59" y1="20.6875" y2="20.6875"/><circle stroke-width="1.5" r="6" stroke="#7f7f7f" fill="var(--markmap-circle-open-bg)" cx="57" cy="20.6875"/><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="41" height="20"><div xmlns="http://www.w3.org/1999/xhtml"><div xmlns="http://www.w3.org/1999/xhtml">Outils</div></div></foreignObject></g><g data-depth="4" data-path="1.36.41.42" class="markmap-node" transform="translate(906, 971.0078125)"><line stroke="#1f77b4" stroke-width="1.1875" x1="-1" x2="371" y1="124.59375" y2="124.59375"/><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="353" height="124"><div xmlns="http://www.w3.org/1999/xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><table data-lines="244,251">
+<thead data-lines="244,245">
+<tr data-lines="244,245">
+<th>Activité</th>
+<th>Heures/semaine</th>
+<th>Qui</th>
+</tr>
+</thead>
+<tbody data-lines="246,251">
+<tr data-lines="246,247">
+<td>Développement core</td>
+<td>20-30h</td>
+<td>Toi + Cursor</td>
+</tr>
+<tr data-lines="247,248">
+<td>Review &amp; validation</td>
+<td>5-10h</td>
+<td>Toi</td>
+</tr>
+<tr data-lines="248,249">
+<td>Prompt engineering</td>
+<td>3-5h</td>
+<td>Toi + IA</td>
+</tr>
+<tr data-lines="249,250">
+<td>Tests &amp; debug</td>
+<td>5-10h</td>
+<td>Toi</td>
+</tr>
+<tr data-lines="250,251">
+<td><strong>Total hebdo</strong></td>
+<td><strong>35-55h</strong></td>
+<td>—</td>
+</tr>
+</tbody>
+</table></div></div></foreignObject></g><g data-depth="3" data-path="1.36.41" class="markmap-node" transform="translate(675, 1023.0078125)"><line stroke="#17becf" stroke-width="1.375" x1="-1" x2="153" y1="20.6875" y2="20.6875"/><circle stroke-width="1.5" r="6" stroke="#17becf" fill="var(--markmap-circle-open-bg)" cx="151" cy="20.6875"/><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="135" height="20"><div xmlns="http://www.w3.org/1999/xhtml"><div xmlns="http://www.w3.org/1999/xhtml">Temps (estimation)</div></div></foreignObject></g><g data-depth="2" data-path="1.36" class="markmap-node" transform="translate(387, 897.8203125)"><line stroke="#8c564b" stroke-width="1.75" x1="-1" x2="210" y1="20.875" y2="20.875"/><circle stroke-width="1.5" r="6" stroke="#8c564b" fill="var(--markmap-circle-open-bg)" cx="208" cy="20.875"/><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="192" height="20"><div xmlns="http://www.w3.org/1999/xhtml"><div xmlns="http://www.w3.org/1999/xhtml">6. Ressources nécessaires</div></div></foreignObject></g><g data-depth="3" data-path="1.43.44" class="markmap-node" transform="translate(655, 1106.1953125)"><line stroke="#2ca02c" stroke-width="1.375" x1="-1" x2="614" y1="124.6875" y2="124.6875"/><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="596" height="124"><div xmlns="http://www.w3.org/1999/xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><table data-lines="256,263">
+<thead data-lines="256,257">
+<tr data-lines="256,257">
+<th>Risque</th>
+<th>Probabilité</th>
+<th>Impact</th>
+<th>Mitigation</th>
+</tr>
+</thead>
+<tbody data-lines="258,263">
+<tr data-lines="258,259">
+<td>Qualité IA insuffisante</td>
+<td>Moyenne</td>
+<td>Haut</td>
+<td>Prompts itératifs, validation humaine</td>
+</tr>
+<tr data-lines="259,260">
+<td>Wikidata indisponible</td>
+<td>Faible</td>
+<td>Moyen</td>
+<td>Retry, cache, dégradé gracieux</td>
+</tr>
+<tr data-lines="260,261">
+<td>Lenteur développement</td>
+<td>Moyenne</td>
+<td>Haut</td>
+<td>Scope ajustable, priorités claires</td>
+</tr>
+<tr data-lines="261,262">
+<td>Peu de traction beta</td>
+<td>Moyenne</td>
+<td>Haut</td>
+<td>Acquisition ciblée, cinéphiles forums</td>
+</tr>
+<tr data-lines="262,263">
+<td>Coût OpenAI imprévu</td>
+<td>Moyenne</td>
+<td>Moyen</td>
+<td>Rate limiting, batching, modèle moins cher</td>
+</tr>
+</tbody>
+</table></div></div></foreignObject></g><g data-depth="2" data-path="1.43" class="markmap-node" transform="translate(387, 1158.1953125)"><line stroke="#ff7f0e" stroke-width="1.75" x1="-1" x2="190" y1="20.875" y2="20.875"/><circle stroke-width="1.5" r="6" stroke="#ff7f0e" fill="var(--markmap-circle-open-bg)" cx="188" cy="20.875"/><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="172" height="20"><div xmlns="http://www.w3.org/1999/xhtml"><div xmlns="http://www.w3.org/1999/xhtml">7. Risques &amp; Mitigations</div></div></foreignObject></g><g data-depth="4" data-path="1.45.46.47" class="markmap-node" transform="translate(1012, 1241.5703125)"><line stroke="#8c564b" stroke-width="1.1875" x1="-1" x2="373" y1="21.59375" y2="21.59375"/><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="355" height="21"><div xmlns="http://www.w3.org/1999/xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 -3 24 24"><path fill-rule="evenodd" d="M6 5a1 1 0 0 0-1 1v12a1 1 0 0 0 1 1h12a1 1 0 0 0 1-1V6a1 1 0 0 0-1-1zM3 6a3 3 0 0 1 3-3h12a3 3 0 0 1 3 3v12a3 3 0 0 1-3 3H6a3 3 0 0 1-3-3v-5z" clip-rule="evenodd"/></svg> Phase précédente validée (démo fonctionnelle)</div></div></foreignObject></g><g data-depth="4" data-path="1.45.46.48" class="markmap-node" transform="translate(1012, 1268.7578125)"><line stroke="#e377c2" stroke-width="1.1875" x1="-1" x2="368" y1="21.59375" y2="21.59375"/><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="350" height="21"><div xmlns="http://www.w3.org/1999/xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 -3 24 24"><path fill-rule="evenodd" d="M6 5a1 1 0 0 0-1 1v12a1 1 0 0 0 1 1h12a1 1 0 0 0 1-1V6a1 1 0 0 0-1-1zM3 6a3 3 0 0 1 3-3h12a3 3 0 0 1 3 3v12a3 3 0 0 1-3 3H6a3 3 0 0 1-3-3v-5z" clip-rule="evenodd"/></svg> Specs détaillées écrites (prompts pour Cursor)</div></div></foreignObject></g><g data-depth="4" data-path="1.45.46.49" class="markmap-node" transform="translate(1012, 1295.9453125)"><line stroke="#7f7f7f" stroke-width="1.1875" x1="-1" x2="230" y1="21.59375" y2="21.59375"/><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="212" height="21"><div xmlns="http://www.w3.org/1999/xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 -3 24 24"><path fill-rule="evenodd" d="M6 5a1 1 0 0 0-1 1v12a1 1 0 0 0 1 1h12a1 1 0 0 0 1-1V6a1 1 0 0 0-1-1zM3 6a3 3 0 0 1 3-3h12a3 3 0 0 1 3 3v12a3 3 0 0 1-3 3H6a3 3 0 0 1-3-3v-5z" clip-rule="evenodd"/></svg> Environnement de dev prêt</div></div></foreignObject></g><g data-depth="4" data-path="1.45.46.50" class="markmap-node" transform="translate(1012, 1323.1328125)"><line stroke="#bcbd22" stroke-width="1.1875" x1="-1" x2="162" y1="21.59375" y2="21.59375"/><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="144" height="21"><div xmlns="http://www.w3.org/1999/xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 -3 24 24"><path fill-rule="evenodd" d="M6 5a1 1 0 0 0-1 1v12a1 1 0 0 0 1 1h12a1 1 0 0 0 1-1V6a1 1 0 0 0-1-1zM3 6a3 3 0 0 1 3-3h12a3 3 0 0 1 3 3v12a3 3 0 0 1-3 3H6a3 3 0 0 1-3-3v-5z" clip-rule="evenodd"/></svg> Backup configuré</div></div></foreignObject></g><g data-depth="3" data-path="1.45.46" class="markmap-node" transform="translate(660, 1282.8515625)"><line stroke="#9467bd" stroke-width="1.375" x1="-1" x2="274" y1="20.6875" y2="20.6875"/><circle stroke-width="1.5" r="6" stroke="#9467bd" fill="var(--markmap-circle-open-bg)" cx="272" cy="20.6875"/><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="256" height="20"><div xmlns="http://www.w3.org/1999/xhtml"><div xmlns="http://www.w3.org/1999/xhtml">Avant de commencer chaque phase</div></div></foreignObject></g><g data-depth="4" data-path="1.45.51.52" class="markmap-node" transform="translate(892, 1355.3203125)"><line stroke="#1f77b4" stroke-width="1.1875" x1="-1" x2="200" y1="21.59375" y2="21.59375"/><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="182" height="21"><div xmlns="http://www.w3.org/1999/xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 -3 24 24"><path fill-rule="evenodd" d="M6 5a1 1 0 0 0-1 1v12a1 1 0 0 0 1 1h12a1 1 0 0 0 1-1V6a1 1 0 0 0-1-1zM3 6a3 3 0 0 1 3-3h12a3 3 0 0 1 3 3v12a3 3 0 0 1-3 3H6a3 3 0 0 1-3-3v-5z" clip-rule="evenodd"/></svg> 10k œuvres complètes</div></div></foreignObject></g><g data-depth="4" data-path="1.45.51.53" class="markmap-node" transform="translate(892, 1382.5078125)"><line stroke="#ff7f0e" stroke-width="1.1875" x1="-1" x2="246" y1="21.59375" y2="21.59375"/><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="228" height="21"><div xmlns="http://www.w3.org/1999/xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 -3 24 24"><path fill-rule="evenodd" d="M6 5a1 1 0 0 0-1 1v12a1 1 0 0 0 1 1h12a1 1 0 0 0 1-1V6a1 1 0 0 0-1-1zM3 6a3 3 0 0 1 3-3h12a3 3 0 0 1 3 3v12a3 3 0 0 1-3 3H6a3 3 0 0 1-3-3v-5z" clip-rule="evenodd"/></svg> 500+ descriptions IA validées</div></div></foreignObject></g><g data-depth="4" data-path="1.45.51.54" class="markmap-node" transform="translate(892, 1409.6953125)"><line stroke="#2ca02c" stroke-width="1.1875" x1="-1" x2="229" y1="21.59375" y2="21.59375"/><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="211" height="21"><div xmlns="http://www.w3.org/1999/xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 -3 24 24"><path fill-rule="evenodd" d="M6 5a1 1 0 0 0-1 1v12a1 1 0 0 0 1 1h12a1 1 0 0 0 1-1V6a1 1 0 0 0-1-1zM3 6a3 3 0 0 1 3-3h12a3 3 0 0 1 3 3v12a3 3 0 0 1-3 3H6a3 3 0 0 1-3-3v-5z" clip-rule="evenodd"/></svg> 100 utilisateurs beta testés</div></div></foreignObject></g><g data-depth="4" data-path="1.45.51.55" class="markmap-node" transform="translate(892, 1436.8828125)"><line stroke="#d62728" stroke-width="1.1875" x1="-1" x2="178" y1="21.59375" y2="21.59375"/><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="160" height="21"><div xmlns="http://www.w3.org/1999/xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 -3 24 24"><path fill-rule="evenodd" d="M6 5a1 1 0 0 0-1 1v12a1 1 0 0 0 1 1h12a1 1 0 0 0 1-1V6a1 1 0 0 0-1-1zM3 6a3 3 0 0 1 3-3h12a3 3 0 0 1 3 3v12a3 3 0 0 1-3 3H6a3 3 0 0 1-3-3v-5z" clip-rule="evenodd"/></svg> Monitoring en place</div></div></foreignObject></g><g data-depth="4" data-path="1.45.51.56" class="markmap-node" transform="translate(892, 1464.0703125)"><line stroke="#9467bd" stroke-width="1.1875" x1="-1" x2="152" y1="21.59375" y2="21.59375"/><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="134" height="21"><div xmlns="http://www.w3.org/1999/xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 -3 24 24"><path fill-rule="evenodd" d="M6 5a1 1 0 0 0-1 1v12a1 1 0 0 0 1 1h12a1 1 0 0 0 1-1V6a1 1 0 0 0-1-1zM3 6a3 3 0 0 1 3-3h12a3 3 0 0 1 3 3v12a3 3 0 0 1-3 3H6a3 3 0 0 1-3-3v-5z" clip-rule="evenodd"/></svg> Plan de rollback</div></div></foreignObject></g><g data-depth="3" data-path="1.45.51" class="markmap-node" transform="translate(660, 1410.1953125)"><line stroke="#17becf" stroke-width="1.375" x1="-1" x2="154" y1="20.6875" y2="20.6875"/><circle stroke-width="1.5" r="6" stroke="#17becf" fill="var(--markmap-circle-open-bg)" cx="152" cy="20.6875"/><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="136" height="20"><div xmlns="http://www.w3.org/1999/xhtml"><div xmlns="http://www.w3.org/1999/xhtml">Avant le lancement</div></div></foreignObject></g><g data-depth="2" data-path="1.45" class="markmap-node" transform="translate(387, 1346.5234375)"><line stroke="#d62728" stroke-width="1.75" x1="-1" x2="195" y1="20.875" y2="20.875"/><circle stroke-width="1.5" r="6" stroke="#d62728" fill="var(--markmap-circle-open-bg)" cx="193" cy="20.875"/><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="177" height="20"><div xmlns="http://www.w3.org/1999/xhtml"><div xmlns="http://www.w3.org/1999/xhtml">8. Checklist de validation</div></div></foreignObject></g><g data-depth="4" data-path="1.57.58.59" class="markmap-node" transform="translate(799, 1496.2578125)"><line stroke="#7f7f7f" stroke-width="1.1875" x1="-1" x2="334" y1="20.59375" y2="20.59375"/><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="316" height="20"><div xmlns="http://www.w3.org/1999/xhtml"><div xmlns="http://www.w3.org/1999/xhtml">1. <strong>Valider cette roadmap</strong> — modifications ?</div></div></foreignObject></g><g data-depth="4" data-path="1.57.58.60" class="markmap-node" transform="translate(799, 1522.4453125)"><line stroke="#bcbd22" stroke-width="1.1875" x1="-1" x2="280" y1="20.59375" y2="20.59375"/><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="262" height="20"><div xmlns="http://www.w3.org/1999/xhtml"><div xmlns="http://www.w3.org/1999/xhtml">2. <strong>Créer repo Git</strong> — structure initiale</div></div></foreignObject></g><g data-depth="4" data-path="1.57.58.61" class="markmap-node" transform="translate(799, 1548.6328125)"><line stroke="#17becf" stroke-width="1.1875" x1="-1" x2="348" y1="20.59375" y2="20.59375"/><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="330" height="20"><div xmlns="http://www.w3.org/1999/xhtml"><div xmlns="http://www.w3.org/1999/xhtml">3. <strong>Setup environnement</strong> — Docker Compose</div></div></foreignObject></g><g data-depth="4" data-path="1.57.58.62" class="markmap-node" transform="translate(799, 1574.8203125)"><line stroke="#1f77b4" stroke-width="1.1875" x1="-1" x2="357" y1="20.59375" y2="20.59375"/><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="339" height="20"><div xmlns="http://www.w3.org/1999/xhtml"><div xmlns="http://www.w3.org/1999/xhtml">4. <strong>Premier ticket</strong> — ingestion Wikidata basique</div></div></foreignObject></g><g data-depth="3" data-path="1.57.58" class="markmap-node" transform="translate(719, 1545.5390625)"><line stroke="#e377c2" stroke-width="1.375" x1="-1" x2="2" y1="0.6875" y2="0.6875"/><circle stroke-width="1.5" r="6" stroke="#e377c2" fill="var(--markmap-circle-open-bg)" cx="0" cy="0.6875"/><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="0" height="0"><div xmlns="http://www.w3.org/1999/xhtml"><div xmlns="http://www.w3.org/1999/xhtml"></div></div></foreignObject></g><g data-depth="4" data-path="1.57.63.64" class="markmap-node" transform="translate(799, 1606.0078125)"><line stroke="#2ca02c" stroke-width="1.1875" x1="-1" x2="485" y1="20.59375" y2="20.59375"/><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="467" height="20"><div xmlns="http://www.w3.org/1999/xhtml"><div xmlns="http://www.w3.org/1999/xhtml">Tu veux ajuster des délais ? (certaines semaines trop chargées ?)</div></div></foreignObject></g><g data-depth="4" data-path="1.57.63.65" class="markmap-node" transform="translate(799, 1632.1953125)"><line stroke="#d62728" stroke-width="1.1875" x1="-1" x2="352" y1="20.59375" y2="20.59375"/><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="334" height="20"><div xmlns="http://www.w3.org/1999/xhtml"><div xmlns="http://www.w3.org/1999/xhtml">Tu veux ajouter des features dans une phase ?</div></div></foreignObject></g><g data-depth="4" data-path="1.57.63.66" class="markmap-node" transform="translate(799, 1658.3828125)"><line stroke="#9467bd" stroke-width="1.1875" x1="-1" x2="344" y1="20.59375" y2="20.59375"/><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="326" height="20"><div xmlns="http://www.w3.org/1999/xhtml"><div xmlns="http://www.w3.org/1999/xhtml">Tu préfères démarrer quand ? (date de début)</div></div></foreignObject></g><g data-depth="3" data-path="1.57.63" class="markmap-node" transform="translate(719, 1642.1953125)"><line stroke="#ff7f0e" stroke-width="1.375" x1="-1" x2="2" y1="0.6875" y2="0.6875"/><circle stroke-width="1.5" r="6" stroke="#ff7f0e" fill="var(--markmap-circle-open-bg)" cx="0" cy="0.6875"/><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="0" height="0"><div xmlns="http://www.w3.org/1999/xhtml"><div xmlns="http://www.w3.org/1999/xhtml"></div></div></foreignObject></g><g data-depth="2" data-path="1.57" class="markmap-node" transform="translate(387, 1583.8671875)"><line stroke="#8c564b" stroke-width="1.75" x1="-1" x2="254" y1="20.875" y2="20.875"/><circle stroke-width="1.5" r="6" stroke="#8c564b" fill="var(--markmap-circle-open-bg)" cx="252" cy="20.875"/><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="236" height="20"><div xmlns="http://www.w3.org/1999/xhtml"><div xmlns="http://www.w3.org/1999/xhtml">9. Prochaines étapes immédiates</div></div></foreignObject></g><g data-depth="1" data-path="1" class="markmap-node" transform="translate(0, -10)"><line stroke="#1f77b4" stroke-width="2.5" x1="-1" x2="309" y1="21.25" y2="21.25"/><circle stroke-width="1.5" r="6" stroke="#1f77b4" fill="var(--markmap-circle-open-bg)" cx="307" cy="21.25"/><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="291" height="20"><div xmlns="http://www.w3.org/1999/xhtml"><div xmlns="http://www.w3.org/1999/xhtml">FICHE PROJET — Roadmap &amp; Planning</div></div></foreignObject></g></g></svg>
